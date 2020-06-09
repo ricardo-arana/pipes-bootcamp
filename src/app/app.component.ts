@@ -29,4 +29,5 @@ export class AppComponent {
   };
   nombreSerie = 'dArK';
   telefono = '987654321'; // 987****** // ocultar
+  urlVideo = 'https://www.youtube.com/embed/STVXkRO4LZY';
 }
